@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'agree' => 'Saya menyetujui persyaratan disini!',
+    'already_member' => 'Saya sudah memiliki akun',
+    'email' => 'Alamat Email',
+    'failed' => 'Data yang anda masukkan belum tersedia/invalid!',
+    'forgot_password' => 'Lupa Password',
+    'login' => 'Masuk',
+    'login_facebook' => 'Sign in using Facebook',
+    'login_google' => 'Sign in using Google+',
+    'login_title' => 'Sign in to start your session',
+    'login_twitter' => 'Sign in using Twitter',
+    'logout' => 'Keluar',
+    'name' => 'Nama Lengkap',
+    'password' => 'Kata Sandi',
+    'password_confirmation' => 'Konfirmasi Kata sandi',
+    'register' => 'Masuk',
+    'register_new_member' => 'Daftar akun baru',
+    'remember_me' => 'Ingat saya',
+    'remember_password' => 'Saya mengingat kata sandi untuk login.',
+    'reset_password' => 'Reset',
+    'reset_password_title' => 'Masukkan kata sandi anda',
+    'reset_title' => 'Reset kata sandi anda melalui email',
+    'send_password' => 'Kirim link pergantian kata sandi',
+    'throttle' => 'Mohon coba lagi beberapa saat!',
+];
